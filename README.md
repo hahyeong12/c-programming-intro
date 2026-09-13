@@ -1,15 +1,9 @@
-\# C Programming Introduction
+# C Programming Introduction
 
-
-
-대학교 1학년 1학기 「프로그래밍 입문」 수업에서
-
+대학교 1학년 1학기 「프로그래밍 입문」 수업에서  
 C 언어를 처음 학습하며 수행한 주차별 실습 및 과제를 정리한 저장소입니다.
 
-
-
-\## Contents
-
+## Contents
 
 
 \- week02
@@ -36,19 +30,10 @@ C 언어를 처음 학습하며 수행한 주차별 실습 및 과제를 정리�
 
 \- week14
 
+## Language
 
+- C
 
-\## Language
+## Environment
 
-
-
-\- C
-
-
-
-\## Environment
-
-
-
-\- Visual Studio
-
+- Visual Studio
